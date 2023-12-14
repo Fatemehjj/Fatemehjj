@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Linux, spring, IT**
 
-- 📝 I regularly write articles on [AI community](AI community)
+- 📝 I regularly write articles on (AI community)
 
 - 📫 How to reach me **Joolafatemeh652@gmail.com**
 
