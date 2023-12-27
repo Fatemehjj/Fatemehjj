@@ -7,7 +7,7 @@
 
 - I'm working on [Grocery shop](https://github.com/Fatemehjj/grocery-shop)
 
-- 🌱 I’m currently learning **Linux and Spring **
+- 🌱 I’m currently learning **Linux and Spring**
 
 - 📝 I regularly write articles on AI community
 
