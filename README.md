@@ -2,9 +2,6 @@
 <h3 align="center">passionate about CS and its universe</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemehjj" alt="fatemehjj" /></a> </p>
-
 - I'm working on [Grocery shop](https://github.com/Fatemehjj/grocery-shop)
 
 - 🌱 I’m currently learning **Linux and Spring**
