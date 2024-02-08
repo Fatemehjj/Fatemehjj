@@ -2,11 +2,7 @@
 <h3 align="center">passionate about CS and its universe</h3>
 
 
-- I'm working on [Grocery shop](https://github.com/Fatemehjj/grocery-shop)
-
 - 🌱 I’m currently learning **Linux and Spring**
-
-- 📝 I regularly write articles on AI community
 
 - 📫 How to reach me **Joolafatemeh652@gmail.com**
 
