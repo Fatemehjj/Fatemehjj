@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatemeh</h1>
 <h3 align="center">passionate about computer science</h3>
 
-- 🌱 I’m currently learning **spring, computer vision**
+- 🌱 I’m currently learning **spring and computer vision !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
